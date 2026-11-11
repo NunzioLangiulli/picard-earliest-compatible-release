@@ -1,0 +1,7 @@
+uuid = "8fa83a5c-9dec-429f-b232-95d8fd7f57e7"
+name = "Earliest Compatible Release"
+description = "Automatically prefer the oldest-year official release with identical ordered recordings and disc layout after Lookup."
+api = ["3.0"]
+version = "0.1.2"
+authors = ["Borunzio"]
+license = "MIT"
